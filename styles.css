@@ -15,8 +15,8 @@
 }
 div.corral {
 	margin: auto;
-	width: 640px;
-	height: 640px;
+	width: 500px;
+	height: 500px;
 	border: 2px solid black;
 	display: grid;
 }
